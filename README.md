@@ -1,2 +1,5 @@
 # AlienClient
-It simply merges two separate repositories into one.
+- Open source: No
+- obfuscation: yes
+- Safety: Not guaranteed.
+- Note: Use a virtual machine when running JAR files.
